@@ -35,4 +35,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-© 2025 Sarath Konda. Created in support of a U.S. EB2-NIW petition to advance healthcare technology and public interest software.
+© 2025 Sarath Reddy Konda. Created in support of a U.S. EB2-NIW petition to advance healthcare technology and public interest software.
