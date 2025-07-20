@@ -1,8 +1,8 @@
 //
 // VitalsLogger - VitalsService.cs
-// Developed by Sarath Konda, 2025
+// Developed by Sarath Reddy Konda, 2025
 //
-// Copyright (c) 2025 Sarath Konda
+// Copyright (c) 2025 Sarath Reddy Konda
 // Licensed under the MIT License. See LICENSE file in the project root.
 //
 // This service reads vital signs using iOS HealthKit for use in health monitoring apps.
