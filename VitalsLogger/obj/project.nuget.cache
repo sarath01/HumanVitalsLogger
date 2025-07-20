@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iIpnH3l7lg4iP6SkWZFua5F9VUAWIb+dyzaL7vOqle2g3msLdpk5ec4zQNaRQFLl8U99IeWUXLiWoPSAR55KOA==",
+  "success": true,
+  "projectFilePath": "/Users/sarathkonda/Downloads/VitalsLogger.iOS.FullProject/VitalsLogger/VitalsLogger.csproj",
+  "expectedPackageFiles": [
+    "/Users/sarathkonda/.nuget/packages/microsoft.net.illink.tasks/8.0.14/microsoft.net.illink.tasks.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
