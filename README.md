@@ -27,5 +27,5 @@ if (granted)
 
 ## License
 
-MIT License © 2025 Sarath Konda
-This library is part of an EB2-NIW petition to demonstrate technical contributions in U.S. public health infrastructure.
+MIT License © 2025 Sarath Reddy Konda
+This library is part to demonstrate technical contributions in U.S. public health infrastructure.
